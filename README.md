@@ -44,15 +44,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+**CLICK ON THE THUMBNAIL BELOW TO WATCH THE DEMONSTRATION**
+[![Walkthrough Thumbnail Link](https://img.youtube.com/vi/TF29TKL7-l0/maxresdefault.jpg)](https://youtu.be/TF29TKL7-l0)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
@@ -60,7 +56,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2025 JazzJE
+    Copyright 2025 Jedrick Espiritu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
