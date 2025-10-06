@@ -77,3 +77,33 @@ h1 {
 .next-button:hover {
   background-color: #2563eb;
 }
+
+.input-section {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input-section input {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #cbd5e1;
+  width: 200px;
+}
+
+.feedback {
+  margin-top: 0.75rem;
+  font-weight: 600;
+}
+
+.nav-buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.nav-buttons button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
